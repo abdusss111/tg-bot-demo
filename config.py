@@ -1,0 +1,2 @@
+TOKEN = '8110136360:AAFKVwssuXMg8gCx-hmxsQj1X0-AdTnrPnQ'
+NAME = 'Test'
